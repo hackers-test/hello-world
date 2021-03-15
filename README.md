@@ -4,4 +4,5 @@ test
 This is an example of changing the README.
 ......
 
-Changes made by Hacker student
+
+Changes made by Eaton-lab and Hacker student
